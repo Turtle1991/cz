@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "cz",
-      "name": "漂亮话剧社",
+      "name": "✨漂亮话剧社✨",
       "type": 3,
       "api": "csp_CZ",
       "searchable": 0,
@@ -16,7 +16,7 @@
       "type": 0,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/Turtle1991/cz/main/cz",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
