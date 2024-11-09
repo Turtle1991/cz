@@ -1,7 +1,6 @@
 {
   "spider": "./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "logo": "http://175.178.251.183:6689/LR.jpg",
   "lives": [
     {
       "name": "直播-主用",
@@ -181,7 +180,6 @@
       "searchable": 1,
       "changeable": 1
     },
-    //{"key":"时光","name":"时光｜磁力｜蓝光","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./JS/影时光.js"},
     {
       "key": "素白白",
       "name": "素白｜影视｜蓝光",
@@ -235,8 +233,6 @@
       "timeout": 60,
       "jar": "./jar/pg.jar;md5;5836e828808e6fde0833d0ccba4e6752"
     },
-    #
-    动漫
     {
       "key": "喵物",
       "name": "喵物｜动漫｜蓝光",
@@ -273,8 +269,6 @@
       "changeable": 1,
       "ext": "./JS/mutefun.js"
     },
-    #
-    备用
     {
       "key": "机器人",
       "name": "机器｜全广｜蓝光",
@@ -283,10 +277,6 @@
       "searchable": 1,
       "changeable": 1
     },
-    #
-    云盘
-    -
-    PG
     {
       "key": "配置",
       "name": "配置｜云盘｜PG",
